@@ -1,16 +1,16 @@
-## Hi there 👋
+## Bem-Vindo ao meu mundo Github!
 
-<!--
-**gabri05el/gabri05el** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXQ2NGpjbjU0ZXRiNTBrazMyN2czZmFoMmx5cnlwN25nbWlzczJ5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif)
+------
+### 👻 Meu Nome é Gabriel Da Fonseca Flauzino
 
-Here are some ideas to get you started:
+### 💻 Tenho estudado bastante programação em geral mais meu forte esta no Front-end, a pouco tempo comecei a estudar o Back-end.
+------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### [Linkedin](https://www.linkedin.com/in/gabriel-f-a63394269/)
+### [Vercel](https://vercel.com/gabriel2005)
+### [Portifolio](https://meu-portifolio-plum.vercel.app/)
+------
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=gabri05el&theme=merko&locale=pt_BR&card_width=550&card_height=225)](https://git.io/streak-stats)
