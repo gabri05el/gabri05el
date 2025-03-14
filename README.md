@@ -15,4 +15,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=gabri05el&theme=merko&locale=pt_BR&card_width=550&card_height=225)](https://git.io/streak-stats)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabri05el)](https://github.com/anuraghazra/github-readme-stats)
+[![Gabriel Da Fonseca Flauzino](https://github-readme-stats.vercel.app/api?username=gabri05el)](https://github.com/anuraghazra/github-readme-stats)
