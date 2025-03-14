@@ -14,3 +14,5 @@
 ------
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=gabri05el&theme=merko&locale=pt_BR&card_width=550&card_height=225)](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gabri05el" alt="GitHub Streak" /></a>
